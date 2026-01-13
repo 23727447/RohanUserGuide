@@ -1,6 +1,6 @@
 # RohanUserGuide
 
-WhoAmI
+WhoAmI 
 My name is Rohan Subba, and I am an Information Technology major with a strong interest in technology and continuous learning. I moved to the United States in 2015 and have focused on developing technical and professional skills. I am motivated, detail-oriented, and committed to long-term professional growth.
 
 WorkStyle
